@@ -3,26 +3,26 @@
   margin: auto;
   padding: 2rem;
   font-family: "Segoe UI", sans-serif;
-  background-color:  #4A6958;
-  color: #1C1C1C;
+  background-color: #E1D3CA;
+  color: #C4737C;
 }
 
 h1, h2 {
-  color: #1C1C1C;
+  color: #9b414b;
 }
 
 .section {
-  background-color: #4A6958;
+  background-color: #F3EEE9;
   padding: 1.2rem 1.5rem;
   margin-bottom: 2rem;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 8px #C4737C;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .section:hover {
   transform: translateY(-4px);
-  box-shadow: 0 6px 18px rgba(41, 78, 4, 0.689);
+  box-shadow: 0 6px 18px #C4737C;
 }
 
 ul {
@@ -34,5 +34,5 @@ li {
 }
 
 strong {
-  color: #395646;
+  color: #c15763;
 }
