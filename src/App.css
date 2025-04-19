@@ -12,7 +12,7 @@ h1, h2 {
 }
 
 .section {
-  background-color: #1B2922;
+  background-color: #4A6958;
   padding: 1.2rem 1.5rem;
   margin-bottom: 2rem;
   border-radius: 12px;
@@ -22,7 +22,7 @@ h1, h2 {
 
 .section:hover {
   transform: translateY(-4px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 18px rgba(41, 78, 4, 0.689);
 }
 
 ul {
@@ -34,5 +34,5 @@ li {
 }
 
 strong {
-  color: #435146;
+  color: #395646;
 }
