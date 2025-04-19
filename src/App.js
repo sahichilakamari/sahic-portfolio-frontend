@@ -66,10 +66,6 @@ function App() {
         {portfolio.achievements?.map((ach, i) => <li key={i}>{ach}</li>)}
       </ul></div>
 
-      <div className="section"><h2>Co-Curricular</h2><ul>
-        {portfolio.co_curricular?.map((item, i) => <li key={i}>{item}</li>)}
-      </ul></div>
-
       <div className="section"><h2>Strengths</h2><ul>
         {portfolio.strengths?.map((str, i) => <li key={i}>{str}</li>)}
       </ul></div>
