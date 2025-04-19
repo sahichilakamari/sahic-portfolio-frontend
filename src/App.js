@@ -21,9 +21,6 @@ function App() {
 
   return (
     <div className={`app-container ${theme}`}>
-      <button onClick={() => setTheme(theme === "light" ? "dark" : "light")}>
-        {theme === "light" ? "🌙 Dark Mode" : "☀️ Light Mode"}
-      </button>
 
       <h1>Portfolio of Sahic</h1>
       <p>{portfolio.bio}</p>
